@@ -31,7 +31,7 @@ public class Main {
         /// Задача 3
         System.out.println("Задание 3");
         int carCapacity = 16;
-        if (carCapacity)
+
 
 
 
